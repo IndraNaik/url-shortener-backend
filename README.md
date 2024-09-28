@@ -16,7 +16,7 @@
 
 <ol>
     <li><strong>Clone the Repository</strong>
-        <pre><code>git clone https://github.com/your-username/url-shortener-backend.git
+        <pre><code>git clone https://github.com/IndraNaik/url-shortener-backend.git
 cd url-shortener-backend</code></pre>
     </li>
     <li><strong>Install Dependencies</strong>
